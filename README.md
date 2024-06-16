@@ -11,7 +11,7 @@
 </div>
 
 ```typescript
-let N0x = {
+let Osama = {
     // Basic Info
     pronouns: "He/Him",
     location: "Yemen",
