@@ -81,8 +81,9 @@ let N0x = {
   
 ### Blockcahin
 <div align="center">  
-<a href="https://ethereum.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ethereum-original.svg" alt="Ethereum" height="50" /></a>  
-<a href="https://soliditylang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/solidity-original.svg" alt="Solidity" height="50" /></a>
+<a href="https://ethereum.org/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/ethereum-1.svg" alt="Ethereum" height="50" /></a>  
+<a href="https://soliditylang.org/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/solidity.svg" alt="Solidity" height="50" /></a>
+
 </div>
 
 </td/></tr>
