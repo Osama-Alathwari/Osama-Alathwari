@@ -112,7 +112,7 @@ let Osama = {
 
 <br/>  
 
-<div alignn="center">
+<div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Osama-Alathwari&show_icons=true&locale=en&layout=compact" alt="OsamaAlathwari" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Osama-Alathwari&" alt="OsamaAlathwari" />
 </div>
