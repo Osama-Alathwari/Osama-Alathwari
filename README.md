@@ -111,10 +111,10 @@ let Osama = {
   <img src="https://github-readme-stats.vercel.app/api?username=Osama-Alathwari&show_icons=true&count_private=true&hide_border=true&theme=github_dark"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Osama-Alathwari&show_icons=true&locale=en&layout=compact" alt="OsamaAlathwari" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Osama-Alathwari&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" alt="OsamaAlathwari" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Osama-Alathwari&" alt="OsamaAlathwari" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Osama-Alathwari&theme=gruvbox&hide_border=true" alt="OsamaAlathwari" />
 </p>
 
 <br />
