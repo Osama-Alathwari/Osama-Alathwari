@@ -112,6 +112,14 @@ let Osama = {
 
 <br/>  
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Osama-Alathwari&show_icons=true&locale=en&layout=compact" alt="OsamaAlathwari" />
+
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Osama-Alathwari&show_icons=true&locale=en&hide=stars" alt="OsamaAlathwari" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Osama-Alathwari&" alt="OsamaAlathwari" />
+
+<br />
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Osama-Alathwari&&style=flat-square" align="center" />
 </div>  
