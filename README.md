@@ -106,7 +106,7 @@ let Osama = {
 
 
 ## Github Stats  
-<div align="center">
+<div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Osama-Alathwari&show_icons=true&locale=en&layout=compact" alt="OsamaAlathwari" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Osama-Alathwari&" alt="OsamaAlathwari" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Osama-Alathwari&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" />
